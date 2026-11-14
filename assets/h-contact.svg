@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="84" viewBox="0 0 1000 84" role="img" aria-labelledby="t d">
+<title id="t">CONTACT &amp; NETWORK</title>
+<desc id="d">Section header: CONTACT &amp; NETWORK</desc>
+<style>text{font-family:'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace}@media (prefers-reduced-motion: reduce){*{animation:none!important}.cover{display:none}}</style>
+
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00ff9c"/><stop offset=".55" stop-color="#00e5ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+<rect width="1000" height="84" rx="8" fill="#0d1416"/>
+<rect x=".5" y=".5" width="999" height="83" rx="8" fill="none" stroke="#1d2c2e"/>
+<rect x="0" y="0" width="5" height="84" rx="2" fill="#00ff9c"/>
+<text x="30" y="34" font-size="13" letter-spacing="3" fill="#00ff9c">07 ::</text>
+<text x="30" y="64" font-size="26" font-weight="700" letter-spacing="2" fill="#c9d6d6">CONTACT &amp; NETWORK</text>
+<text x="972" y="52" text-anchor="end" font-size="13" fill="#6f8788">let&#x27;s build something</text>
+
+
+</svg>
